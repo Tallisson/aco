@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<!-- Configurando Parâmetros -->
+	<alpha>1</alpha>
+	<beta>5</beta>
+	<rho>0.5</rho>
+	<heuristica>true</heuristica>
+	<q>100</q>
+	<ants>10</ants>
+        <iteracoes>30</iteracoes>
+        <c>0.3</c>
+        
+        <!-- Representação do Problema -->
+        <num_celulas>20</num_celulas>
+        <num_transicoes>8</num_transicoes>
+</config>
