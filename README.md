@@ -1,4 +1,4 @@
 aco
 ===
 
-Algoritmo Colonia de Formigas
+Algoritmo Colônia de Formigas
